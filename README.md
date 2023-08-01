@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Newsletter Sign up](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Newsletter Sign up](https://www.frontendmentor.io/solutions/newsletter-sign-up-24vd8T3-bS)
+- Live Site URL: [Live Site](https://salmon982-newsletter-signup.netlify.app/)
 
 ## My process
 
